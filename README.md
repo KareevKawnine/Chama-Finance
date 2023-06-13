@@ -20,10 +20,10 @@ After that run the following command to host the YelpCamp app on your localhost 
 ```
   npm start 
 ```
-After installing and running the commands, YelpCamp 2.0 will be live on your computer. And you can now view the project at `http://localhost:3000`
+After installing and running the commands, Chama Finance will be live on your computer. And you can now view the project at `http://localhost:3000`
 
 ## License
-Copyright © 2022 YelpCamp. All rights reserved. Developed by [KareevKawnine](https://github.com/kareevkawnine)
+Copyright © 2023 Chama Finance. All rights reserved. Developed by [KareevKawnine](https://github.com/kareevkawnine)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
