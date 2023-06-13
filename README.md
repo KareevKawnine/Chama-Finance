@@ -1,7 +1,7 @@
 ## Chama-Finance
 **Chama Finance** is a Dynamic Financial Tracking Software developed by Kareev Kawnine.
 
-![lmao-min](https://user-images.githubusercontent.com/73062307/201620707-c4059c56-fcec-4b31-9e0b-b891aa0e1949.png)
+![lmao-min]![chama-finance](https://github.com/KareevKawnine/Chama-Finance/assets/73062307/201387b0-603c-4566-b252-55bdd9dda3b2)
 
 ## Acknowledgements
 
